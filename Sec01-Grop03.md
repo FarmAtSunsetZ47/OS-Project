@@ -41,7 +41,7 @@
 
 > _แผนภาพแสดงการทำงานของระบบ (System Flow) หรือ Architecture_
 
-![Sec1-Group3-Diagram](https://drive.google.com/file/d/1vfjK2NeMs39HtBYHaV7tyiMAD4EACpH8/view?usp=sharing)
+![Sec1-Group3-Diagram](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/OS%20Diagram.jpg)
 
 ## 6. 🎥 Demo / Preview
 
