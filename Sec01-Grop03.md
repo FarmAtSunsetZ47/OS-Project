@@ -7,7 +7,7 @@
 
 ## 1. 📝 Project Title
 
-มัลติเอฟเฟคต์โพรเซสเซอร์สำหรับกีต้าร์ไฟฟ้า / Multi-Effect Processor for Electric Guitar
+มัลติเอฟเฟคต์โพรเซสเซอร์สำหรับกีต้าร์ไฟฟ้า / Multi-Effect Processor for Electric Guitars
 
 ## 2. 👥 Group Members
 
@@ -41,13 +41,13 @@
 
 > _แผนภาพแสดงการทำงานของระบบ (System Flow) หรือ Architecture_
 
-![Diagram](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/OS%20Diagram.jpg)
+![Diagram](https://drive.google.com/file/d/1vfjK2NeMs39HtBYHaV7tyiMAD4EACpH8/view?usp=drive_link)
 
 ## 6. 🎥 Demo / Preview
 
 > _คลิปแสดงตัวอย่างการทำงานเบื้องต้น_
 
-- **Video Link:** [คลิกเพื่อรับชม Video](URL_HERE)
+- **Video Link:** [คลิกเพื่อรับชม Video](https://drive.google.com/file/d/1fs8nTAW_ICBVarbX9lG_MpdJ610RAIQI/view?usp=drive_link)
 - **Remark:** (หมายเหตุเพิ่มเติม ถ้ามี)
 
 ---
