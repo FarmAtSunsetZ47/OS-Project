@@ -41,7 +41,7 @@
 
 > _แผนภาพแสดงการทำงานของระบบ (System Flow) หรือ Architecture_
 
-![Diagram](OS Diagram.jpg)
+![Diagram](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/OS%20Diagram.jpg)
 
 ## 6. 🎥 Demo / Preview
 
