@@ -41,7 +41,7 @@
 
 > _แผนภาพแสดงการทำงานของระบบ (System Flow) หรือ Architecture_
 
-![Sec1-Group3-Diagram](https://drive.google.com/file/d/195QGnG9Zx0j-yZ8u3hgV_s_xzp2UE8h5/view?usp=drive_link)
+![Sec1-Group3-Diagram](https://drive.google.com/file/d/1vfjK2NeMs39HtBYHaV7tyiMAD4EACpH8/view?usp=sharing)
 
 ## 6. 🎥 Demo / Preview
 
