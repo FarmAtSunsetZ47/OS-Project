@@ -1,2 +1,2 @@
 # OS-Project
-ไทย: มัลติเอฟเฟคต์โพรเซสเซอร์สำหรับกีต้าร์ไฟฟ้า | English: Multi-Effects Processor for Electric Guitars
+มัลติเอฟเฟคต์โพรเซสเซอร์สำหรับกีต้าร์ไฟฟ้า | Multi-Effects Processor for Electric Guitars
