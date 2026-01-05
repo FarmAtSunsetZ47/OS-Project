@@ -1,0 +1,812 @@
+{
+  "1": {
+    "A": {
+      "Name": "Power",
+      "Gate": true,
+      "Amp": true,
+      "Mod": false,
+      "Dly": false,
+      "Rev": true,
+      "Gate_Threshold": -30,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 68,
+        "Bas": 74,
+        "Mid": 85,
+        "Tre": 50,
+        "Drive_Mode": "Fuzz",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 95, "Damp": 30, "Mix": 25 }
+    },
+    "B": {
+      "Name": "Solo",
+      "Gate": false,
+      "Amp": true,
+      "Mod": true,
+      "Dly": true,
+      "Rev": false,
+      "Gate_Threshold": -30,
+      "Notes": "For Solo",
+      "Amp_Params": {
+        "Vol": 65,
+        "Gain": 100,
+        "Bas": 76,
+        "Mid": 84,
+        "Tre": 50,
+        "Drive_Mode": "Distortion",
+        "Warmth": 49
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 20 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "C": {
+      "Name": "Lick",
+      "Gate": false,
+      "Amp": true,
+      "Mod": true,
+      "Dly": true,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 100,
+        "Gain": 52,
+        "Bas": 66,
+        "Mid": 86,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 38
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 21 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "D": {
+      "Name": "Rhythm",
+      "Gate": false,
+      "Amp": true,
+      "Mod": false,
+      "Dly": true,
+      "Rev": true,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 87,
+        "Gain": 55,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 56
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 21 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    }
+  },
+  "2": {
+    "A": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "B": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "C": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "D": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    }
+  },
+  "3": {
+    "A": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "B": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "C": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "D": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    }
+  },
+  "4": {
+    "A": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "B": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "C": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "D": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    }
+  },
+  "5": {
+    "A": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "B": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "C": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "D": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    }
+  },
+  "6": {
+    "A": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "B": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "C": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "D": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    }
+  },
+  "7": {
+    "A": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "B": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "C": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "D": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    }
+  },
+  "8": {
+    "A": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "B": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "C": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "D": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    }
+  },
+  "9": {
+    "A": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "B": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "C": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    },
+    "D": {
+      "Name": "",
+      "Gate": false,
+      "Amp": false,
+      "Mod": false,
+      "Dly": false,
+      "Rev": false,
+      "Gate_Threshold": -45,
+      "Notes": "",
+      "Amp_Params": {
+        "Vol": 50,
+        "Gain": 30,
+        "Bas": 50,
+        "Mid": 50,
+        "Tre": 50,
+        "Drive_Mode": "Clean",
+        "Warmth": 0
+      },
+      "Mod_Params": { "Type": "Chorus", "Rate": 1.5, "Depth": 50 },
+      "Dly_Params": { "Time": 300, "Feedback": 30, "Mix": 30 },
+      "Rev_Params": { "Size": 50, "Damp": 30, "Mix": 20 }
+    }
+  }
+}
