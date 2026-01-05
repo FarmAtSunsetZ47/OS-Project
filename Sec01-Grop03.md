@@ -41,7 +41,7 @@
 
 > _แผนภาพแสดงการทำงานของระบบ (System Flow) หรือ Architecture_
 
-![D:\College\ปี 3\OS-Project\frontend\assets\OS Diagram.jpg](ลิงก์รูปภาพหรือคำอธิบาย)
+![Diagram](OS Diagram.jpg)
 
 ## 6. 🎥 Demo / Preview
 
