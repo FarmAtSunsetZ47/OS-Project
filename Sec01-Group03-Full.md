@@ -116,6 +116,6 @@
 
 1.  Adam Crute. (2019). **The science of signal sampling.** สืบค้นเมื่อ 10 มกราคม 2569, จาก https://musictech.com/guides/essential-guide/science-of-signal-sampling/
 
-2.  Steven W. Smith. (1999). **Introduction to Digital Filters.** สืบค้นเมื่อ 10 มกราคม 2569, จา https://www.analog.com/en/resources/technical-books/scientist_engineers_guide.html
+2.  Steven W. Smith. (1999). **Introduction to Digital Filters.** สืบค้นเมื่อ 10 มกราคม 2569, จาก https://www.analog.com/en/resources/technical-books/scientist_engineers_guide.html
 
 3.  Nick Messitte. (2023). **Ultimate Guide to Audio Effects.** สืบค้นเมื่อ 10 มกราคม 2569, จาก https://www.izotope.com/en/learn/guide-to-audio-effects
