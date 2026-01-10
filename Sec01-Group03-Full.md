@@ -78,9 +78,8 @@
 > _ส่วนนี้แสดงโครงสร้างระบบ (Architecture) หรือ Flowchart การทำงาน_
 
 **แผนภาพกระบวนการทำงาน (System Flowchart)**
-
-![แผนภาพกระบวนการทำงานทั้งหมด](ใส่_Link_หรือ_Path_รูปภาพตรงนี้.png)
-_(คำอธิบายรูปภาพ: แผนภาพแสดงลำดับการทำงานของระบบตั้งแต่เริ่มต้นจนจบกระบวนการ)_
+![Diagram-Drive](https://drive.google.com/file/d/1FGy7t5ZOuHZ8zksciyOnAKnBghY-7sQI/view?usp=drive_link)
+![Diagram-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/Diagram.png)
 
 ## 4. ผลการดำเนินงาน
 
