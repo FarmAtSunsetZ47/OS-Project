@@ -1,9 +1,9 @@
-import customtkinter as ctk # pyright: ignore[reportMissingImports]
-import numpy as np # pyright: ignore[reportMissingImports]
-import sounddevice as sd # pyright: ignore[reportMissingImports]
+import customtkinter as ctk
+import numpy as np
+import sounddevice as sd
 import json
 import os
-from scipy.signal import lfilter # pyright: ignore[reportMissingImports]
+from scipy.signal import lfilter
 
 # --- Configuration ---
 FS = 44100
