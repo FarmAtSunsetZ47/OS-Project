@@ -89,9 +89,11 @@ _(คำอธิบายรูปภาพ: แผนภาพแสดงล�
 **GitHub:** (https://github.com/FarmAtSunsetZ47/OS-Project)
 
 - **ผลลัพธ์ที่ 1:** [อธิบาย]
-  - ![Code](https://drive.google.com/file/d/1Ns-ZdNFEnljnAU3-M07uVC8W4OQcqm2Z/view?usp=drive_link)()
+  - ![Code-Drive](https://drive.google.com/file/d/1Ns-ZdNFEnljnAU3-M07uVC8W4OQcqm2Z/view?usp=drive_link)
+  - ![Code-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/Code.png)
 - **ผลลัพธ์ที่ 2:** [อธิบาย]
-  - ![GUI](https://drive.google.com/file/d/1kUiohQO1wUr20B_K-IDDUjYctlol0JaV/view?usp=drive_link)
+  - ![GUI-Drive](https://drive.google.com/file/d/1kUiohQO1wUr20B_K-IDDUjYctlol0JaV/view?usp=drive_link)
+  - ![GUI-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/MTFX1.png)
 - **ผลลัพธ์ที่ 3:** [อธิบาย]
   - ![Hardware](ใส่_Link_หรือ_Path_รูปภาพตรงนี้_2.png)
 
