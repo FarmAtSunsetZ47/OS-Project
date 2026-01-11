@@ -94,8 +94,8 @@
   - ![GUI-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/MTFX1.png)
   - ![GUI-Drive](https://drive.google.com/file/d/1kUiohQO1wUr20B_K-IDDUjYctlol0JaV/view?usp=drive_link)
 - **ผลลัพธ์ที่ 3:** [ภาพนี้แสดงถึงอุปกรณ์ฮาร์ดแวร์ส่วนหนึ่งของอุปกรณ์ทั้งหมดที่ใช้ในโครงการ]
-  - ![Hardware-Drive](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/Hardware.JPG)
-  - ![Hardware-GitHub](https://drive.google.com/file/d/1u3iIDjQoEx5aOgKTH8gQBHvFb_vp7Guy/view?usp=drive_link)
+  - ![Hardware-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/Hardware.JPG)
+  - ![Hardware-Drive](https://drive.google.com/file/d/1u3iIDjQoEx5aOgKTH8gQBHvFb_vp7Guy/view?usp=drive_link)
 
 ## 5. สรุปผลการดำเนินงานและข้อเสนอแนะ
 
