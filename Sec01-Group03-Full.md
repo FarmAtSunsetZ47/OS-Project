@@ -58,19 +58,15 @@
 4.การจัดการความหน่วง ของการประมวลผลเสียงแบบ Real-time บนบอร์ดคอมพิวเตอร์ขนาดเล็
 
 ## 2. ทฤษฎีที่เกี่ยวข้อง
-
 > _อธิบายหลักการ ทฤษฎี หรือเทคโนโลยีที่นำมาใช้ในโครงงานนี้_
 
 ### 2.1 [ทฤษฎีการสุ่มตัวอย่าง (Sampling Theorem)]
-
 - Sampling Theorem (Nyquist-Shannon): ทฤษฎีการสุ่มตัวอย่าง เพื่อแปลงสัญญาณเสียงอนาล็อกจากกีตาร์ให้เป็นข้อมูลดิจิทัลโดยไม่สูญเสียรายละเอียด (มักใช้ที่ 44.1kHz หรือ 48kHz ขึ้นไป)
 
 ### 2.2 [ระบบกรองสัญญาณดิจิทัล (Digital Filtering)]
-
 - Digital Filtering: การใช้สมการทางคณิตศาสตร์สร้างตัวกรองความถี่ (Low-pass, High-pass) เพื่อจำลองเสียงลำโพงหรือปรับ EQ
 
 ### 2.3 [การออกแบบอับกอริทึม (Algorithm Design)]
-
 - Algorithm Design: การสร้างสูตรคำนวณเพื่อเลียนแบบเสียง เช่น ทฤษฎีการสะท้อน(Reflection) สำหรับ Reverb หรือการหน่วงเวลา (Delay Lines) สำหรับ Chorus และ Flanger ใน Modulation
 
 ## 3. การออกแบบ
@@ -90,9 +86,11 @@
 - **ผลลัพธ์ที่ 1:** [ภาพนี้แสดงถึงส่วนหนึ่งของ Python Code ชื่อไฟล์ว่า main.py ซึ่งเขียนขึ้นเพื่อทำหน้า GUI และเป็นไฟล์หลักสำหรับประมวลผลเสียงเอฟเฟคต์กีต้าร์]
   - ![Code-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/Code.png)
   - ![Code-Drive](https://drive.google.com/file/d/1Ns-ZdNFEnljnAU3-M07uVC8W4OQcqm2Z/view?usp=drive_link)
+    
 - **ผลลัพธ์ที่ 2:** [ภาพนี้แสดงถึงหน้า GUI ส่วนหนึ่ง ซึ่งได้ถูกสร้างขึ้นจากไฟล์ main.py]
   - ![GUI-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/MTFX1.png)
   - ![GUI-Drive](https://drive.google.com/file/d/1kUiohQO1wUr20B_K-IDDUjYctlol0JaV/view?usp=drive_link)
+    
 - **ผลลัพธ์ที่ 3:** [ภาพนี้แสดงถึงอุปกรณ์ฮาร์ดแวร์ส่วนหนึ่งของอุปกรณ์ทั้งหมดที่ใช้ในโครงการ]
   - ![Hardware-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/Hardware.JPG)
   - ![Hardware-Drive](https://drive.google.com/file/d/1u3iIDjQoEx5aOgKTH8gQBHvFb_vp7Guy/view?usp=drive_link)
@@ -116,7 +114,5 @@
 ## เอกสารอ้างอิง
 
 1.  Adam Crute. (2019). **The science of signal sampling.** สืบค้นเมื่อ 10 มกราคม 2569, จาก https://musictech.com/guides/essential-guide/science-of-signal-sampling/
-
 2.  Steven W. Smith. (1999). **Introduction to Digital Filters.** สืบค้นเมื่อ 10 มกราคม 2569, จาก https://www.analog.com/en/resources/technical-books/scientist_engineers_guide.html
-
 3.  Nick Messitte. (2023). **Ultimate Guide to Audio Effects.** สืบค้นเมื่อ 10 มกราคม 2569, จาก https://www.izotope.com/en/learn/guide-to-audio-effects
