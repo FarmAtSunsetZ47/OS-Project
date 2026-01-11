@@ -87,13 +87,13 @@
 
 **GitHub:** (https://github.com/FarmAtSunsetZ47/OS-Project)
 
-- **ผลลัพธ์ที่ 1:** [อธิบาย]
+- **ผลลัพธ์ที่ 1:** [ภาพนี้แสดงถึงส่วนหนึ่งของ Python Code ชื่อไฟล์ว่า main.py ซึ่งเขียนขึ้นเพื่อทำหน้า GUI และเป็นไฟล์หลักสำหรับประมวลผลเสียงเอฟเฟคต์กีต้าร์]
   - ![Code-Drive](https://drive.google.com/file/d/1Ns-ZdNFEnljnAU3-M07uVC8W4OQcqm2Z/view?usp=drive_link)
   - ![Code-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/Code.png)
-- **ผลลัพธ์ที่ 2:** [อธิบาย]
+- **ผลลัพธ์ที่ 2:** [ภาพนี้แสดงถึงหน้า GUI ส่วนหนึ่ง ซึ่งได้ถูกสร้างขึ้นจากไฟล์ main.py]
   - ![GUI-Drive](https://drive.google.com/file/d/1kUiohQO1wUr20B_K-IDDUjYctlol0JaV/view?usp=drive_link)
   - ![GUI-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/MTFX1.png)
-- **ผลลัพธ์ที่ 3:** [อธิบาย]
+- **ผลลัพธ์ที่ 3:** [ภาพนี้แสดงถึงอุปกรณ์ฮาร์ดแวร์ส่วนหนึ่งของอุปกรณ์ทั้งหมดที่ใช้ในโครงการ]
   - ![Hardware-Drive](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/Hardware.JPG)
   - ![Hardware-GitHub](https://drive.google.com/file/d/1u3iIDjQoEx5aOgKTH8gQBHvFb_vp7Guy/view?usp=drive_link)
 
