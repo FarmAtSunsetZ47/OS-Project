@@ -74,7 +74,7 @@
 > _ส่วนนี้แสดงโครงสร้างระบบ (Architecture) หรือ Flowchart การทำงาน_
 
 **แผนภาพกระบวนการทำงาน (System Flowchart)**
-![Diagram-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/Diagram.png)
+![Diagram-GitHub](https://github.com/FarmAtSunsetZ47/OS-Project/blob/main/Picture/Diagram.jpg)
 ![Diagram-Drive](https://drive.google.com/file/d/1FGy7t5ZOuHZ8zksciyOnAKnBghY-7sQI/view?usp=drive_link)
 
 ## 4. ผลการดำเนินงาน
